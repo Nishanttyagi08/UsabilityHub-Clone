@@ -69,6 +69,9 @@
 
 @media screen and (max-width: 767px) {
 
+  p {
+    font-size: 1rem;
+  }
   .header-section {
     flex-direction: column-reverse;
   }
